@@ -672,7 +672,7 @@ hr {
     box-shadow: 0 0 30px 10px rgba(0, 255, 255, 0.79556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 20px; }
     @media screen and (max-width: 480px) {
-      .tile.tile-16777216 .tile-inner {
+      .tile.tile-33554432 .tile-inner {
         font-size: 2px; } }
   .tile.tile-67108864 .tile-inner {
     color: #f9f6f2;
